@@ -1,5 +1,5 @@
 * elliowo_overlay
-Ny personal overlay for portage.
+My personal overlay for portage.
 
 To add the overlay to portage: 
 #+begin_src
