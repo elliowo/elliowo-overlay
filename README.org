@@ -1,0 +1,2 @@
+* elliowo_overlay
+my personal overlay for portage
