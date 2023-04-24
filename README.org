@@ -1,2 +1,7 @@
 * elliowo_overlay
-my personal overlay for portage
+Ny personal overlay for portage.
+
+To add the overlay to portage: 
+#+begin_src
+eselect repository add elliowo-overlay git https://github.com/elliowo/elliowo-overlay.git
+#+end_src
